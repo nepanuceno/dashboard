@@ -16,6 +16,7 @@
     "tiny-emitter": "^2.1.0",
     "vee-validate": "^4.4.9",
     "vue": "^3.0.0",
+    "vue-axios": "^3.2.5",
     "vue-router": "^4.0.0-0",
     "vue-toastification": "^2.0.0-rc.1"
   },
